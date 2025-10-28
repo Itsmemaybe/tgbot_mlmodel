@@ -1,0 +1,6 @@
+flask
+pyTelegramBotAPI
+bcrypt
+tensorflow
+pillow
+numpy
